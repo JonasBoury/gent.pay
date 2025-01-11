@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    color: #333;
+}
+
+p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.countdown {
+    font-size: 2em;
+    color: #e74c3c;
+}
+
+.footer {
+    position: absolute;
+    bottom: 20px;
+    font-size: 0.8em;
+    color: #999;
+}
